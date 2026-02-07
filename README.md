@@ -1,10 +1,10 @@
 ## Hi, I’m Thamizh 👋  
 
-Backend-focused developer with strong interest in building secure, real-world systems using Java and Spring Boot.
+Backend developer(learner) with strong interest in building secure, scalable, real-world systems using Java and Spring Boot.
 
 ### What I do
 - Design and develop REST APIs using Spring Boot
-- Implement authentication and role-based authorization with Spring Security and JWT
+- Implement authentication and authorization with Spring Security
 - Work on institution-based, multi-tenant backend systems
 - Focus on clean architecture, data integrity, and security
 
@@ -21,6 +21,7 @@ Built to understand backend architecture, security, and institution-scoped data 
 
 ### Currently improving
 - Backend system design
+- Frontend system design
 - Security best practices
 - Writing clean and maintainable backend code
 
