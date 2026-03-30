@@ -3,10 +3,10 @@
 Backend developer(learner) with strong interest in building secure, scalable, real-world systems using Java and Spring Boot.
 
 ### What I do
-- Design and develop REST APIs using Spring Boot
-- Implement authentication and authorization with Spring Security
-- Work on institution-based, multi-tenant backend systems
-- Focus on clean architecture, data integrity, and security
+- Build backend APIs with Spring Boot
+- Set up authentication & security (Spring Security, JWT)
+- Work on scalable systems, including multi-tenant apps
+- Try to keep code clean, simple, and secure
 
 ### Tech stack
 - Java, Spring Boot, Spring Security
